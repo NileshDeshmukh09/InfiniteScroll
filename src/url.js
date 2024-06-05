@@ -1,0 +1,1 @@
+export const memeURL = "https://meme-api.com/gimme/15";
